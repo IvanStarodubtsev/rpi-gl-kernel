@@ -2,3 +2,4 @@
 	path = kernel-rpi
 	url = git@github.com:raspberrypi/linux.git
 	branch = rpi-4.4.y
+	ignore = dirty
